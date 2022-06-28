@@ -1,7 +1,19 @@
 .grid-con{
     display:grid;
     grid-template-columns: auto auto auto;
-    margin:80px;
-    gap:40px;
+    margin:7vh 40px;
+    gap:4vw;
     /* justify-content: space-between; */
 }
+
+@media only screen and (max-width:1000px) {
+    .grid-con {
+        grid-template-columns: auto auto;
+    }
+  }
+
+  @media only screen and (max-width:600px) {
+    .grid-con {
+        grid-template-columns: auto;
+    }
+  }
