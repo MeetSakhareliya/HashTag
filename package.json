@@ -1,5 +1,6 @@
 {
   "name": "hashtag",
+  "homepage": "https://MeetSakhareliya.github.io/HashTag",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
