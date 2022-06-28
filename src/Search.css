@@ -1,0 +1,23 @@
+.search_bar{
+    
+}
+
+.search{
+    padding:10px;
+    border:1px solid white;
+    -webkit-box-shadow: 0 0 10px #bebebd;
+        box-shadow: 0 0 10px #bebebd;
+ 
+    height:35px;
+    border-radius:20px;
+    width:35vw;
+    font-weight: 500;
+    font-size:20px;
+    
+    
+}   
+
+input:focus{
+    outline: none !important;
+    border: #6425c9 2px solid;
+}

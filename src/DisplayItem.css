@@ -1,0 +1,27 @@
+.card{
+    width:320px;
+    height:350px;
+    border: 1px white solid;
+    border-radius:10px;
+    overflow: hidden;
+    color:#0f061f;
+    box-shadow: 5px 5px 5px #bbadad;
+    overflow-wrap:break-word;
+    text-align: left;
+    /* display:inline-block; */
+ 
+}
+
+/* .spans{
+    display:inline-block;
+} */
+
+img{
+    width:100%;
+    height:80%;
+    object-fit: cover;
+}
+
+span{
+    margin-right:15px;
+}

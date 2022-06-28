@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+body{
+  font-size:20px;
+  font-family: 'Nunito', sans-serif;
+  background-color:rgba(249,250,251);
+  color:#170830;
+}
